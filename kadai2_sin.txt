@@ -1,1 +1,8 @@
 
+/*kadai2*/
+    @GetMapping("/hello2")
+    public String hello3() {
+        return "Hello, World4!";
+    }
+/*結果*/
+Hello, World4!
